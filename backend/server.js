@@ -23,7 +23,7 @@ app.use((req, res, next) => {
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'kishored@2005',
+  password: 'kishored2005',
   database: 'fullstack_app'
 });
 
